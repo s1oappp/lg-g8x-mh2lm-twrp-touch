@@ -1,0 +1,5 @@
+*.img
+*.zip
+*.bin
+*-baseline*
+__pycache__/
